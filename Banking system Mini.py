@@ -1,5 +1,3 @@
-# Banking-System-Mini-Project.py
-This project includes functionalities for users to perform banking operations and for the bank (admin) to manage accounts and view financial statistics.
 class BankAccount:
     def __init__(self, account_number, account_holder):
         self.account_number = account_number
